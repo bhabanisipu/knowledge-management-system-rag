@@ -1,0 +1,178 @@
+EMPLOYEE HANDBOOK
+
+Company: ABC Technologies Pvt. Ltd.
+
+Version: 1.0
+
+------------------------------------------------------------
+1. Company Overview
+------------------------------------------------------------
+
+ABC Technologies Pvt. Ltd. is a software development company that specializes in Artificial Intelligence, Machine Learning, Cloud Computing, and Data Engineering.
+
+Our mission is to build innovative software solutions that improve businesses worldwide.
+
+Office Address:
+Bhubaneswar, Odisha, India.
+
+Working Days:
+Monday to Friday
+
+Office Hours:
+9:30 AM to 6:30 PM
+
+------------------------------------------------------------
+2. Attendance Policy
+------------------------------------------------------------
+
+Employees must mark attendance before 9:30 AM.
+
+Late arrivals exceeding 15 minutes will be considered late attendance.
+
+Three late attendances in a month will be treated as one half-day leave.
+
+Employees are expected to maintain at least 95% attendance every month.
+
+------------------------------------------------------------
+3. Leave Policy
+------------------------------------------------------------
+
+Employees receive the following paid leaves every year:
+
+12 Casual Leaves
+
+10 Sick Leaves
+
+15 Earned Leaves
+
+Public holidays are announced every year by the HR department.
+
+Employees must apply for leave through the HR portal at least two days before the leave date.
+
+Emergency leave can be approved by the reporting manager.
+
+------------------------------------------------------------
+4. Work From Home Policy
+------------------------------------------------------------
+
+Employees may work from home up to two days per week with manager approval.
+
+Remote employees must be available during office hours.
+
+Daily stand-up meetings are mandatory.
+
+------------------------------------------------------------
+5. Dress Code
+------------------------------------------------------------
+
+Employees should wear business casual attire.
+
+Formal dress is mandatory during client meetings.
+
+Identity cards must be worn inside the office premises.
+
+------------------------------------------------------------
+6. Code of Conduct
+------------------------------------------------------------
+
+Employees should maintain professional behavior.
+
+Harassment of any kind is strictly prohibited.
+
+Discrimination based on race, religion, gender, or nationality will not be tolerated.
+
+Company property should be handled responsibly.
+
+------------------------------------------------------------
+7. IT Policy
+------------------------------------------------------------
+
+Employees should not share company passwords.
+
+Official laptops must be password protected.
+
+Software installation requires approval from the IT department.
+
+USB devices from unknown sources are prohibited.
+
+------------------------------------------------------------
+8. Performance Review
+------------------------------------------------------------
+
+Performance reviews are conducted twice every year.
+
+Evaluation criteria include:
+
+Technical Skills
+
+Communication
+
+Teamwork
+
+Innovation
+
+Problem Solving
+
+Employees with outstanding performance may receive promotions and bonuses.
+
+------------------------------------------------------------
+9. Salary Policy
+------------------------------------------------------------
+
+Salary is credited on the last working day of every month.
+
+Income tax deductions follow government regulations.
+
+Employees receive annual salary revisions based on performance.
+
+------------------------------------------------------------
+10. Travel Policy
+------------------------------------------------------------
+
+Business travel requires manager approval.
+
+Flight tickets should be booked through the company's travel portal.
+
+Hotel reimbursement is limited to ₹5000 per night.
+
+Food reimbursement is limited to ₹1000 per day.
+
+------------------------------------------------------------
+11. Security Policy
+------------------------------------------------------------
+
+Employees should lock their computers before leaving their desks.
+
+Confidential company information must not be shared with external parties.
+
+Multi-factor authentication is mandatory for company accounts.
+
+------------------------------------------------------------
+12. Resignation Policy
+------------------------------------------------------------
+
+Employees must provide 60 days' notice before resignation.
+
+Exit interviews are mandatory.
+
+Company assets must be returned before the last working day.
+
+------------------------------------------------------------
+13. Contact Information
+------------------------------------------------------------
+
+HR Email:
+hr@abctecnologies.com
+
+IT Support:
+itsupport@abctechnologies.com
+
+Phone:
++91-9876543210
+
+Office Timing:
+9:30 AM to 6:30 PM
+
+------------------------------------------------------------
+End of Employee Handbook
+------------------------------------------------------------
